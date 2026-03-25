@@ -1,0 +1,14 @@
+# IntelliJ IDEA files
+.idea/
+*.iml
+out/
+gen/
+
+# Compiled Java class files
+*.class
+
+# macOS system files
+.DS_Store
+
+# Text editor swap files
+*.swp
